@@ -139,6 +139,7 @@ b) 변동성 σ = 0.25 (25%)
 * 선택된 전략들의 순서별 누적 수익을 시각화하여 포트폴리오 전체 흐름 파악 가능
 
 결과
+
 ￼<img width="505" alt="22 200 0" src="https://github.com/user-attachments/assets/9f6c3ef7-f564-4962-b827-0e1e2985e93c" />
 
 의미 해석
